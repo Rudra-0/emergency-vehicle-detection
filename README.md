@@ -33,7 +33,7 @@ This project implements a real-time emergency vehicle detection system using YOL
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/emergency-vehicle-detection.git
+git clone https://github.com/Rudra-0/emergency-vehicle-detection.git
 cd emergency-vehicle-detection
 
 # Install dependencies
