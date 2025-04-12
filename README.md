@@ -1,6 +1,6 @@
 # Emergency Vehicle Detection and Traffic Management System
 
-DSATM'25 Hackathon Project
+DSATM'25 Hackathon Project - TEAM S-28 - Copypaste Cult
 
 ## Overview
 
@@ -65,3 +65,5 @@ python train_yolov8_fixed.py
 ## License
 
 [MIT License](LICENSE)
+
+©️ 2025 TEAM S-28 - Copypaste Cult
