@@ -1,0 +1,13 @@
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 3
+names: ['16', 'emergency', 'not_emergency']
+
+roboflow:
+  workspace: project-sawkw
+  project: emergency-vehicle-detection-el8ej
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-sawkw/emergency-vehicle-detection-el8ej/dataset/4

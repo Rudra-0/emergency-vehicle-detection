@@ -1,0 +1,14 @@
+names:
+- '16'
+- emergency
+- not_emergency
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: emergency-vehicle-detection-el8ej
+  url: https://universe.roboflow.com/project-sawkw/emergency-vehicle-detection-el8ej/dataset/4
+  version: 4
+  workspace: project-sawkw
+test: C:\Users\gupta\OneDrive\Desktop\new_model\DSATM25\dataset\test\images
+train: C:\Users\gupta\OneDrive\Desktop\new_model\DSATM25\dataset\train\images
+val: C:\Users\gupta\OneDrive\Desktop\new_model\DSATM25\dataset\valid\images
